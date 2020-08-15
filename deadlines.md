@@ -13,5 +13,8 @@ Your dad dies of bladder cancer after he finally agreed to a cystectomy and even
 <br/>
 
 *Originally published in STORGY in 2020*
+
+<br/>
+
 - [Read *Nameless*](nameless.md)
 - [Back to the table of contents](README.md)
