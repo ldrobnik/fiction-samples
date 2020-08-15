@@ -1,5 +1,5 @@
 # Łukasz Drobnik’s fiction samples
-Here are a bunch of my flash fictions published in the last several years. If you want to learn more about me, visit [my official website](https://drobnik.co/).
+Here are a bunch of my flash fictions published in the last several years. For more samples and a full list of publications, visit [my official website](https://drobnik.co/).
 
 ### Flash Fiction
 - [Cetacean](cetacean.md)
