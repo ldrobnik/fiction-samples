@@ -26,6 +26,8 @@ As we're leaving the parking area, unnoticed, with the trolley packed to the bri
 
 The streets are strangely calm. They smell of hot asphalt. Slowly, we reach our car, open the boot and begin to fill it with bread, cheese, vegetables, beer. We do what we'd never do in different circumstances: leave the trolley on the side of the street. Before you push it down to the ditch, you give me a mischievous smile. We get into the car and drive away.
 
+<br/>
+
 *Originally published in Lighthouse Issue 10 (2015)*
 - [Read *Deadlines*](deadlines.md)
 - [Back to the table of contents](README.md)

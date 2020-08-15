@@ -38,6 +38,8 @@ Where our house used to stand, there's a gigantic floating nest surrounded by a 
 
 Finally, having preened its feathers for a bit, it stretches its spine, clumsily crawls out of the nest and plunges underwater --- where its grace is endless.
 
+<br/>
+
 *Originally published in Atticus Review (May 2019)*
 - [Read *Cetacean*](cetacean.md)
 - [Back to the table of contents](README.md)

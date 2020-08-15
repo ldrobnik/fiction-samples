@@ -16,6 +16,8 @@ I like to think you became that river, filling its channel from source to mouth,
 
 T gazes at me and smiles. He says he's missed me. Then he looks away and down at the beach, at the dozens of hands holding phones, dozens of feet treading the sand and avoiding small puddles, at the flashes. He takes a gulp, puts down the bottle and holds out his hand to feel it's started drizzling. The lorry arrives.
 
+<br/>
+
 *Originally published in Quarterly West Issue 94 (2018)*
 - [Read *Moths*](moths.md)
 - [Back to the table of contents](README.md)
