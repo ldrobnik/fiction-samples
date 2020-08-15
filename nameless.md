@@ -19,3 +19,7 @@ He looks as if he were asleep, save for the bullet hole in his head. Resting aga
 We scan the sky. Then slowly spin our heads, turning our ears into radars catching the faintest of noises. I gesture at you to stay and make a break for the centre of the clearing. With wobbly legs, I kneel on the ground and --- shedding no tear, giving no sob --- take his cold tiny body in my arms.
 
 You cry out. It's a mess of short rustly sounds that could be reassembled into my name. There are buzzards above my head, an entire flock.
+
+*Originally published in Akashic Books in 2020*
+- [Read *Riverweed*](riverweed.md)
+- [Back to the table of contents](README.md)

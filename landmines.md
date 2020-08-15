@@ -9,3 +9,7 @@ We are drunk in full sun, at high noon. Can't wrap our heads around the beauty o
 We talk over the phone now and then as I drink my way through the angst of my twenties, the aimlessness of my thirties, the low-flame depression of my forties. Our phones become watches become chips become implants. Our hair becomes grey or, in your case, nonexistent. Fat creeps over our organs and under our skin. The pollen tube drills deeper into the cellulose flesh.
 
 The road is wet and black, the stars aplenty. Hours later, I'm in your spacious living room, on your expensive sofa, holding your trembling head against my chest. I wonder if the salt from your tears will leave flowery patterns on my shirt. When the worst crying is over, I talk nonsense to distract you. Just imagine, the pollen tube finally reaches the entrapped creature, one of the sperms fuses with the egg, and a whole new life begins.
+
+*Originally published in Foglifter Volume 4 Issue 1 (2019)*
+- [Read *Cellulose*](cellulose.md)
+- [Back to the table of contents](README.md)

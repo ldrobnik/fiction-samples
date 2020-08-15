@@ -9,3 +9,7 @@ They beat the shit out of you, but all you've got is deadlines, deadlines, deadl
 And all you've got is deadlines, deadlines, deadlines, it's always been the deadlines, deadlines, deadlines, don't bother me, I've deadlines, deadlines, deadlines, your life's a sum of deadlines, deadlines, deadlines.
 
 Your dad dies of bladder cancer after he finally agreed to a cystectomy and even had a round of chemo, so your mum, your sisters and you thought he was going to be okay and he did seem fine and you didn't even feel the need to call him that often, you and he were friendly, sure, finally after all these years, and there seemed to be many years ahead, but then the results came in and it turned out the radiologist had made a mistake and Dad's belly was in fact full of pebble-like tumours and he kept losing weight stone after stone and, weeks before it happened, he gave you his good earphones and now all you've got is.
+
+*Originally published in STORGY in 2020*
+- [Read *Nameless*](nameless.md)
+- [Back to the table of contents](README.md)

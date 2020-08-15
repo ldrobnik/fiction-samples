@@ -37,3 +37,7 @@ The tumours have it nice and cosy in his belly, collecting all the treasures: ca
 Where our house used to stand, there's a gigantic floating nest surrounded by a shallow sea. The beautiful monster of a bird that resides in it, rosettes of peacock-like feathers around its head and paws, lets out a rattling screech. It tilts its head, eyeing the twilit sky, the yellow swarms of mosquito-sized tits, the enormous water lilies that are home to fluorescent mushrooms.
 
 Finally, having preened its feathers for a bit, it stretches its spine, clumsily crawls out of the nest and plunges underwater --- where its grace is endless.
+
+*Originally published in Atticus Review (May 2019)*
+- [Read *Cetacean*](cetacean.md)
+- [Back to the table of contents](README.md)

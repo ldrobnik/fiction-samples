@@ -17,3 +17,7 @@ Words turned into electricity and back into words again don't leave much room fo
 *Your head and the rest of your body now belong to two different worlds, cut at the neck by the aqueous boundary. Paralysed, you wait for the viscous current to help you off the slippery stones.*
 
 The exuberant kelp of a vomit stain is now sliced through by two wobbly lines, as if left by small wheels. Could it have been the bruised thirty-year-old's suitcase? The wheel trails vanish in the middle of the street. It cannot be ruled out that the battered man, if indeed it was him, became a Slavic god by the name of Diazepamir (his many arms forever toasting shots of rye vodka, lungs choked with catkins), then soared into the night sky (countless hands plucking tenements, tearing off asphalt) and disappeared in a flash (*take the streets, take the streets*) where there is no fear and there is no death and everything is light.
+
+*Originally published in BULL #9: The LGBTQ Issue (2020)*
+- [Read *Landmines*](landmines.md)
+- [Back to the table of contents](README.md)

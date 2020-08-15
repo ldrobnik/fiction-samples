@@ -10,6 +10,6 @@ Calmly, she incorporates the warm socks and bottles of expensive perfume and cri
 
 Slowly but steadily she engulfs the other rooms: the dim and humid bathroom, the spacious kitchen overlooking the green motorway, the two quiet bedrooms. It seems inevitable that her turgor pressure will hold the furniture in eternal entrapment. That the rooms will be renamed after her vacuoles. If there were a single beating heart left in the world, it might find solace in the thought that the flower pots, the empty aquarium and the tiny ribcage will once again host life.
 
-*Originally published in Mojave Heart Review, republished in FlashFlood*
+*Originally published in Mojave Heart Review (September 2018), republished in FlashFlood (2020)*
 - [Read *Treasures*](treasures.md)
 - [Back to the table of contents](README.md)

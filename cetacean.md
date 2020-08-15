@@ -15,3 +15,7 @@ They never found your body. Someone happened upon your shoe, the vividly pink tr
 I like to think you became that river, filling its channel from source to mouth, spreading further out to the sea, to the ocean, wrapping the earth with a thick mantle of water and now sending me this beached whale as a belated goodbye. Or perhaps you transformed into her. Maybe it's you down there, heavily pregnant, opened up and covered in barnacles, with one fin broken and buried in the sand.
 
 T gazes at me and smiles. He says he's missed me. Then he looks away and down at the beach, at the dozens of hands holding phones, dozens of feet treading the sand and avoiding small puddles, at the flashes. He takes a gulp, puts down the bottle and holds out his hand to feel it's started drizzling. The lorry arrives.
+
+*Originally published in Quarterly West Issue 94 (2018)*
+- [Read *Moths*](moths.md)
+- [Back to the table of contents](README.md)
