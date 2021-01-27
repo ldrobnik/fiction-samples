@@ -2,7 +2,7 @@
 
 It can see us from above as we try to hide among brambles, hoping it will mistake our human shapes and movements for those of boar or deer or badgers. We freeze, letting blood drip onto moss.
 
-The buzzard does a figure of eight against the cruelly blue sky. The cloaking devices don't let it track us, but it still has its four camera eyes, movement detectors --- who knows how many --- and a machine gun. It seems to have a mind of its own, and I can't shake the impression that it knows all too well we have to come back for our boy.
+The buzzard does a figure of eight against the cruelly blue sky. The cloaking devices don't let it track us, but it still has its four camera eyes, movement detectors—who knows how many—and a machine gun. It seems to have a mind of its own, and I can't shake the impression that it knows all too well we have to come back for our boy.
 
 I can call it a buzzard only inside my head. Perhaps you called it something else. Or maybe, after all those years together, we both came up with the same name, inspired by its looming presence, the silent buzzing sound it produces and the way it makes us feel like rodents in the fields. Finally, the buzzard flies away. We wait a few tense seconds and dash towards a thicket of spruces.
 
@@ -16,7 +16,7 @@ Clearings are the scariest, bogs the most treacherous, glens the deadliest. In p
 
 He looks as if he were asleep, save for the bullet hole in his head. Resting against the spiky mattress of pine needles, his red parka forms a vivid stain among the faded woody colours. His little eyes are peacefully fixed on the ruthless blue.
 
-We scan the sky. Then slowly spin our heads, turning our ears into radars catching the faintest of noises. I gesture at you to stay and make a break for the centre of the clearing. With wobbly legs, I kneel on the ground and --- shedding no tear, giving no sob --- take his cold tiny body in my arms.
+We scan the sky. Then slowly spin our heads, turning our ears into radars catching the faintest of noises. I gesture at you to stay and make a break for the centre of the clearing. With wobbly legs, I kneel on the ground and – shedding no tear, giving no sob – take his cold tiny body in my arms.
 
 You cry out. It's a mess of short rustly sounds that could be reassembled into my name. There are buzzards above my head, an entire flock.
 

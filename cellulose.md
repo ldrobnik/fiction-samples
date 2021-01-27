@@ -1,6 +1,6 @@
 # Cellulose
 
-Days are seconds to her. Her stomata blink as she breathes. She comes inside through a broken window, where she is welcomed by the musty smell of unmoving air and the old rug fluffy with mould --- a home to dust mites and parasol mushrooms.
+Days are seconds to her. Her stomata blink as she breathes. She comes inside through a broken window, where she is welcomed by the musty smell of unmoving air and the old rug fluffy with mould—a home to dust mites and parasol mushrooms.
 
 There are no words for her springy shoots and resilient roots, not anymore. None of her many tendrils can be named. As she silently explodes in the living room, days and nights flashing like a strobe light, her chloroplasts are full and heavy, her offshoots ready to devour.
 

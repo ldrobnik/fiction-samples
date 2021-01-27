@@ -4,7 +4,7 @@ There's a story in this series of vomit stains on the pavement. The first attack
 
 <br/>
 
-*You picture a river. Similar to the one E and you used to go to before she moved to another city, before you moved to another city --- but wilder, louder and more beckoning. Its banks flanked by weeping willows and bristling with reeds, its heart the blackest maelstrom. The swoosh reminds you of the patter of his urine against the floorboards in the middle of the living room, in the middle of the night. The smell is of river sludge and frail waterweeds and empty snail shells. You wonder if a person retains their sense of smell underwater.*
+*You picture a river. Similar to the one E and you used to go to before she moved to another city, before you moved to another city – but wilder, louder and more beckoning. Its banks flanked by weeping willows and bristling with reeds, its heart the blackest maelstrom. The swoosh reminds you of the patter of his urine against the floorboards in the middle of the living room, in the middle of the night. The smell is of river sludge and frail waterweeds and empty snail shells. You wonder if a person retains their sense of smell underwater.*
 
 <br/>
 
