@@ -17,4 +17,4 @@ The road is wet and black, the stars aplenty. Hours later, I'm in your spacious 
 <br/>
 
 - [Read *Cellulose*](cellulose.md)
-- [Back to the table of contents](README.md)
+- [Go back to the table of contents](README.md)

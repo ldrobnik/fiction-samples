@@ -33,4 +33,4 @@ The streets are strangely calm. They smell of hot asphalt. Slowly, we reach our 
 <br/>
 
 - [Read *Deadlines*](deadlines.md)
-- [Back to the table of contents](README.md)
+- [Go back to the table of contents](README.md)

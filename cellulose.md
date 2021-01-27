@@ -17,4 +17,4 @@ Slowly but steadily she engulfs the other rooms: the dim and humid bathroom, the
 <br/>
 
 - [Read *Treasures*](treasures.md)
-- [Back to the table of contents](README.md)
+- [Go back to the table of contents](README.md)

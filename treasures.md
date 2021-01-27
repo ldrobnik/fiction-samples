@@ -45,4 +45,4 @@ Finally, having preened its feathers for a bit, it stretches its spine, clumsily
 <br/>
 
 - [Read *Cetacean*](cetacean.md)
-- [Back to the table of contents](README.md)
+- [Go back to the table of contents](README.md)
