@@ -1,3 +1,9 @@
+---
+layout: default
+title: Deadlines
+nav_order: 4
+---
+
 # Deadlines
 
 Your dear friend is in town, but all you've got is deadlines, deadlines, deadlines. She wears a blue dress and brings you ground coffee as a gift. The two of you have a blast, sure, walking down the boulevard, talking about your dreadful boyfriends, laughing, having some charcoal ice cream, but there's a translation about bladder cancer waiting for you at home. You don't mind it, not really. How bodies work or fail to work has always fascinated you. Plus, being a medical translator means you get to translate all the ways you could die.

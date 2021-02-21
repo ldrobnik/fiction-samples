@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cetacean
+nav_order: 2
+---
+
 # Cetacean
 
 The beach, now a graveyard, stretches well below us against the background of the calm sea. It's full of onlookers. They swarm around the place holding cameras and mobile phones, all pointed at one spot. We're sitting on the cliff, on the drab flower-patterned blanket you hated so much, with a bag full of beers, having a picnic that must do for a wake. She's lying on a bed made of sand and brown seaweed and plastic washed ashore.
