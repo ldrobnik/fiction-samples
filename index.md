@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ToC
+title: Introduction
 nav_order: 1
 description: "A selection of Łukasz Drobnik’s flash fictions published in recent years"
 permalink: /
