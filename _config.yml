@@ -14,4 +14,4 @@ aux_links:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: Read more on [my official website](https://drobnik.co)
+footer_content: Read more on <a href="https://drobnik.co" target="_blank" rel="noopener noreferrer">my official website</a>.
