@@ -46,4 +46,4 @@ The exuberant kelp of a vomit stain is now sliced through by two wobbly lines, a
 
 <br/>
 
-- [Next: *Landmines*](landmines.md)
+- [Next: *Coal and Glitter*](coal-and-glitter.md)
