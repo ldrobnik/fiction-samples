@@ -18,7 +18,7 @@ Slowly but steadily she engulfs the other rooms: the dim and humid bathroom, the
 
 <br/>
 
-*Originally published in Mojave Heart Review (September 2018), republished in FlashFlood (2020)*
+*Originally published in Mojave Heart Review (September 2018), republished in [FlashFlood](http://flashfloodjournal.blogspot.com/2020/06/cellulose-by-ukasz-drobnik.html) (2020)*
 
 <br/>
 

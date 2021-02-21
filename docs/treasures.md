@@ -46,7 +46,7 @@ Finally, having preened its feathers for a bit, it stretches its spine, clumsily
 
 <br/>
 
-*Originally published in Atticus Review (May 2019)*
+*Originally published in [Atticus Review](https://atticusreview.org/treasures/) (May 2019)*
 
 <br/>
 

@@ -34,7 +34,7 @@ The streets are strangely calm. They smell of hot asphalt. Slowly, we reach our 
 
 <br/>
 
-*Originally published in Lighthouse Issue 10 (2015)*
+*Originally published in [Lighthouse](http://www.gatehousepress.com/lighthouse/) Issue 10 (2015)*
 
 <br/>
 

@@ -26,7 +26,7 @@ When there is nothing left but bedazzled wasteland, we will stop, the millions o
 
 <br/>
 
-*Originally published in HAD (2020)*
+*Originally published in [HAD](https://www.havehashad.com/hadposts/coal-and-glitter) (2020)*
 
 <br/>
 

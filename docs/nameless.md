@@ -28,7 +28,7 @@ You cry out. It's a mess of short rustly sounds that could be reassembled into m
 
 <br/>
 
-*Originally published in Akashic Books in 2020*
+*Originally published in [Akashic Books](http://www.akashicbooks.com/nameless-by-lukasz-drobnik/) in 2020*
 
 <br/>
 

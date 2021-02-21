@@ -24,7 +24,7 @@ T gazes at me and smiles. He says he's missed me. Then he looks away and down at
 
 <br/>
 
-*Originally published in Quarterly West Issue 94 (2018)*
+*Originally published in [Quarterly West Issue 94](https://www.quarterlywest.com/issue-94/cetacean) (2018)*
 
 <br/>
 

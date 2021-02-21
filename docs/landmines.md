@@ -18,7 +18,7 @@ The road is wet and black, the stars aplenty. Hours later, I'm in your spacious 
 
 <br/>
 
-*Originally published in Foglifter Volume 4 Issue 1 (2019)*
+*Originally published in [Foglifter Volume 4 Issue 1](https://foglifterjournal.com/product/foglifter-journal-volume-4-issue-1/) (2019)*
 
 <br/>
 

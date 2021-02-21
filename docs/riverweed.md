@@ -42,7 +42,7 @@ The exuberant kelp of a vomit stain is now sliced through by two wobbly lines, a
 
 <br/>
 
-*Originally published in BULL #9: The LGBTQ Issue (2020)*
+*Originally published in [BULL #9: The LGBTQ Issue](https://www.amazon.com/dp/B0851LL5PL/ref=mp_s_a_1_2?keywords=bull+%239+lit&qid=1582738243&sr=8-2) (2020)*
 
 <br/>
 
