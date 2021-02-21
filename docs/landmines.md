@@ -22,5 +22,4 @@ The road is wet and black, the stars aplenty. Hours later, I'm in your spacious 
 
 <br/>
 
-- [Read *Cellulose*](cellulose.md)
-- [Go back to the table of contents](README.md)
+- [Next: *Cellulose*](cellulose.md)

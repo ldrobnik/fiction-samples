@@ -22,5 +22,4 @@ Your dad dies of bladder cancer after he finally agreed to a cystectomy and even
 
 <br/>
 
-- [Read *Nameless*](nameless.md)
-- [Go back to the table of contents](README.md)
+- [Next: *Nameless*](nameless.md)

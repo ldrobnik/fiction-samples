@@ -32,5 +32,4 @@ You cry out. It's a mess of short rustly sounds that could be reassembled into m
 
 <br/>
 
-- [Read *Riverweed*](riverweed.md)
-- [Go back to the table of contents](README.md)
+- [Next: *Riverweed*](riverweed.md)

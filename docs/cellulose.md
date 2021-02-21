@@ -22,5 +22,4 @@ Slowly but steadily she engulfs the other rooms: the dim and humid bathroom, the
 
 <br/>
 
-- [Read *Treasures*](treasures.md)
-- [Go back to the table of contents](README.md)
+- [Next: *Treasures*](treasures.md)

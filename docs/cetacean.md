@@ -28,5 +28,4 @@ T gazes at me and smiles. He says he's missed me. Then he looks away and down at
 
 <br/>
 
-- [Read *Moths*](moths.md)
-- [Go back to the table of contents](README.md)
+- [Next: *Moths*](moths.md)
