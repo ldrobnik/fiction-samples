@@ -1,3 +1,9 @@
+---
+layout: default
+title: Treasures
+nav_order: 8
+---
+
 # Treasures
 
 She calls us her little treasures. Her hair smells of the bonfire. We watch the star-studded sky with our sharp-sighted eyes, touch the cool grass—just my little brother L and I, that is. K, the beautiful accident, won't happen for many years.

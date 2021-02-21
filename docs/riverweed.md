@@ -1,3 +1,9 @@
+---
+layout: default
+title: Riverweed
+nav_order: 6
+---
+
 # Riverweed
 
 There's a story in this series of vomit stains on the pavement. The first attack must have been strong and short, leaving long radial streaks on the flagstones. The second splash is smaller. Whoever left it, they must have thought the worst was behind them. The last one is an unrestrained cacophony of colours and textures. As if its painter held on to the corner while a jet of sick erupted from their body, hit the pavement and cascaded over the curb onto the asphalt.

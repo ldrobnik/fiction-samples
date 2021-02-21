@@ -1,3 +1,9 @@
+---
+layout: default
+title: Landmines
+nav_order: 7
+---
+
 # Landmines
 
 It's a separate organism trapped in the innards of its parent. There's a whole lot of meiosis going on. As you point to the faded illustration with your bitten nail, I can't help but stare at your hairy wrist.

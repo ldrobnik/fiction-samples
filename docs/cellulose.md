@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cellulose
+nav_order: 8
+---
+
 # Cellulose
 
 Days are seconds to her. Her stomata blink as she breathes. She comes inside through a broken window, where she is welcomed by the musty smell of unmoving air and the old rug fluffy with mould—a home to dust mites and parasol mushrooms.
