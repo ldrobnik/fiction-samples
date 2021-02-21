@@ -16,6 +16,7 @@ Here are a bunch of my flash fictions published in recent years. For more writin
 - [Deadlines](/docs/deadlines.md)
 - [Nameless](/docs/nameless.md)
 - [Riverweed](/docs/riverweed.md)
+- [Coal and Glitter](/docs/coal-and-glitter.md)
 - [Landmines](/docs/landmines.md)
 - [Cellulose](/docs/cellulose.md)
 - [Treasures](/docs/treasures.md)
