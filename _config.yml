@@ -1,0 +1,17 @@
+name: "Łukasz Drobnik’s fiction"
+title: "Łukasz Drobnik’s fiction"
+description: "A selection of Łukasz Drobnik’s flash fictions published in recent years"
+remote_theme: ldrobnik/just-the-docs
+
+color_scheme: fiction-samples
+
+logo: "/assets/images/logo.svg"
+
+aux_links:
+  "Official website":
+    - "https://drobnik.co"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: Read more on [my official website](https://drobnik.co)
