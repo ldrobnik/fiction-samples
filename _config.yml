@@ -15,3 +15,5 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 footer_content: Read more on <a href="https://drobnik.co" target="_blank" rel="noopener noreferrer">my official website</a>.
+
+ga_tracking: UA-96544723-5
